@@ -7,4 +7,5 @@ The log of my #100DaysOfCode challenge. Started on **March 24, Monday, 2025**
 ### R1D1 - March 24
 Created new github. Started TOP - The odin project from scratch. 
 
-### R1D2
+### R1D2 - March 25
+Part 1 ±30min. Finished Github Section.
