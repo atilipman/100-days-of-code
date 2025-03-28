@@ -9,3 +9,6 @@ Created new github. Started TOP - The odin project from scratch.
 
 ### R1D2 - March 25
 Part 1 ±30min. Finished Github Section.
+
+### R1D3 - March 28
+±30min. Half way through HTML section.
