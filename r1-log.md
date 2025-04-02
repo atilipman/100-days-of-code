@@ -12,3 +12,6 @@ Part 1 ±30min. Finished Github Section.
 
 ### R1D3 - March 28
 ±30min. Half way through HTML section.
+
+### R1D4 - April 2
+30 min. Finish links and good commit messages
